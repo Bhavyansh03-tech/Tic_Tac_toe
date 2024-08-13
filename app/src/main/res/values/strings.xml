@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic_Tac_toe</string>
+    <string name="Game">Welcome To Tic Tac Toe</string>
+    <string name="grid">our main grid</string>
+    <string name="c12">c1</string>
+    <string name="cc">c3</string>
+</resources>
